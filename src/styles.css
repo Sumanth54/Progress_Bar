@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.progressBar {
+  border: 2px solid black;
+  border-radius: 10px;
+  height: 20px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.progressBar span {
+  position: absolute;
+}
+
+.percentAbr {
+  height: 100%;
+  background-color: green;
+}
